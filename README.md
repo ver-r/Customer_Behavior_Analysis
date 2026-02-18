@@ -99,6 +99,3 @@ The project directory contains:
 
 ---
 
-
-
-* Improve the structure to look more professional for recruiters
